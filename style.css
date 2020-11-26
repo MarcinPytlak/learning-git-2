@@ -8,3 +8,6 @@ p {
     font-style: italic;
     text-align: center;
 }
+img {
+    border-radius: 20%;
+}
