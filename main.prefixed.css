@@ -12,5 +12,6 @@ p {
 }
 img {
     border-radius: 20%;
+    display: -ms-flexbox;
     display: flex;
 }
